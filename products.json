@@ -1,0 +1,79 @@
+{
+    "products": [
+        {
+            "name": "Widget",
+            "price": 25,
+            "quantity": 5
+        },
+        {
+            "name": "Necklace",
+            "price": 15,
+            "quantity": 5
+        },
+        {
+            "name": "Toy",
+            "price": 25,
+            "quantity": 5
+        },
+        {
+            "name": "ceapa",
+            "price": 100,
+            "quantity": 50
+        },
+        {
+            "name": "mancare",
+            "price": 50,
+            "quantity": 100
+        },
+        {
+            "name": "ololo",
+            "price": 35,
+            "quantity": 32
+        },
+        {
+            "name": "suc",
+            "price": 100,
+            "quantity": 50
+        },
+        {
+            "name": "cal",
+            "price": 150,
+            "quantity": 1
+        },
+        {
+            "name": "vaca",
+            "price": 100,
+            "quantity": 20
+        },
+        {
+            "name": "lac",
+            "price": 10,
+            "quantity": 10
+        },
+        {
+            "name": "branza",
+            "price": 50,
+            "quantity": 69
+        },
+        {
+            "name": "faina",
+            "price": 30,
+            "quantity": 30
+        },
+        {
+            "name": "rahat",
+            "price": 20,
+            "quantity": 1
+        },
+        {
+            "name": "Oale",
+            "price": 20,
+            "quantity": 5
+        },
+        {
+            "name": "salut",
+            "price": 5,
+            "quantity": 5
+        }
+    ]
+}
